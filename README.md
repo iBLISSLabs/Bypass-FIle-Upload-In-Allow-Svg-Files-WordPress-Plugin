@@ -1,0 +1,1 @@
+# Bypass-FIle-Upload-In-Allow-Svg-Files-WordPress-Plugin
